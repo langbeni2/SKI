@@ -1,3 +1,3 @@
 # SKI
 
-Uch musste es als ZIP hocladen durch betimmte fehler
+Ich musste es als ZIP hocladen durch betimmte fehler
